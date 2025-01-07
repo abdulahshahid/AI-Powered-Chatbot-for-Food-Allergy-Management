@@ -1,7 +1,3 @@
-Here’s the revised README file without the "How to Run," "Future Work," and "Acknowledgment" sections:  
-
----
-
 ## AI-Powered Chatbot for Food Allergy Management  
 
 ### Project Overview  
